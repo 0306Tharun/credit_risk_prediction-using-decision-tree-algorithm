@@ -41,9 +41,6 @@ Classification report
 Decision tree diagram
 
 🔧 How to Run
-bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
 
 # Install dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn
@@ -187,4 +184,5 @@ Grid search for optimal hyperparameters
 ROC curve and AUC score analysis
 
 📝 License
+
 This project is available for educational and portfolio purposes.
